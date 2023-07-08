@@ -1,0 +1,268 @@
+'home.index'
+
+mx
+
+href="{{route('/')}}"
+
+button
+
+Register
+
+100
+
+မူရင်းစာမျက်နှာ
+
+Dashboard
+
+Session
+
+ပင်မစာမျက်နှာ
+
+Illuminate\Support\Facades\
+
+Locale
+
+    dd($local);
+
+
+'locale'
+
+Page
+
+Home
+
+Home Page
+
+value
+
+document
+
+my-sm-0
+
+<div class="dropdown mx-2 my-sm-0">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Language
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                              <button class="dropdown-item" type="button">Action</button>
+                              <button class="dropdown-item" type="button">Another action</button>
+                              <button class="dropdown-item" type="button">Something else here</button>
+                            </div>
+                          </div>
+
+Dropdown button
+
+false
+
+Dropdown
+
+manager
+
+isManager
+
+manager
+
+manager
+
+admin
+
+isAdmin
+
+.show
+
+expect
+
+min:6
+
+        dd($request->all());
+
+
+        return ("hello");
+
+
+get
+
+register.registration'
+
+LoginController
+
+Register
+
+unique:users,email
+
+false
+
+Register
+
+    <div>
+                <input type="password" class="form-control mt-2" name="password_confirmation" id=""
+                 placeholder="Confrim Password">
+                 @if ($errors->has('password_confirmation'))
+                    <span class="text-danger">{{ $errors->first('password_confirmation')}}</span>
+                 @endif
+            </div>
+
+      <div>
+                <input type="text" class="form-control mt-2"  name="username" id=""
+                placeholder="UserName">
+                @if ($errors->has('username'))
+                    <span class="text-danger">{{ $errors->first('username')}}</span>
+                @endif
+            </div>
+
+        return ("Hello");
+
+
+type="submit"
+
+button
+
+button
+
+
+        return
+
+ route
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Dashboard
+
+guest
+
+type="submit"
+
+button
+
+authenticated
+
+   @auth
+        <h1></h1>
+    @endauth
+
+    <h1 class="text-danger">DashBoard</h1>
+
+
+button
+
+LogOut
+
+secondary
+
+Search
+
+New
+
+              <input class="form-control me-sm-2" type="search" placeholder="Search">
+
+
+light
+
+container
+
+Document
+
+name
+
+email
+
+ dd($request->all());
+
+dd("Hello ");
+
+        dd($request->all());
+
+
+required
+
+username
+
+username
+
+name
+
+eamil
+
+name
+
+text
+
+text
+
+password
+
+username
+
+text
+
+text
+
+field
+
+confrim-
+
+value
+
+table
+
+column,except,id
+
+table
+
+Singin
+
+success
+
+form action="" class="form-control"></form>
+
+    <h1>Register</h1>
+
+mt-5
+
+name
+
+name
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Register</title>
+    <link rel="stylesheet" href="{!! url('assets/bootstrap/css/bootstrap.min.css') !!}">
+    <link rel="stylesheet" href="{!! url('assets/css/singin.css') !!}">
+</head>
+<body>
+    <button class="btn btn-success">Hello world</button>
+</body>
+</html>
+
+
+contant
+
+Authentication
+
+style.css"
+
+assets/
+
+style.css
+
+Document
+
+{{-- <@php
+   echo "Hello World Blade register";
+@endphp --}}
+Hello WOrld
+ Blad
+
+Document
+
+return "Hello World";
+
+'RegisterController@
+
